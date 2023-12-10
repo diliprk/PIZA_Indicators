@@ -5,4 +5,4 @@
 - OrderBlocks
 - Volume Profiles Zones
 - Market Profile Zones
-Indicators which are still not completed and are still in the validation / development phase are in the `WIP` folder
+<br>Indicators which are still not completed and are still in the validation / development phase are in the `WIP` folder
